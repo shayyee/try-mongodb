@@ -8,8 +8,11 @@
 # 安装依赖，根目录下
 npm install
 
-# 启动后端server，在server目录下
-node index
+# 启动后端server，根目录下
+node server
+
+# 使用nodemon启动后端server，根目录下
+npm run start
 
 # 运行前端，根目录下
 npm run dev
