@@ -1,22 +1,21 @@
-# try-mongodb
+# tifi-music
 
-> Vue2.0 + Express + MongoDB的小尝试
+> A Vue.js project
 
 ## Build Setup
 
 ``` bash
-# 安装依赖，根目录下
+# install dependencies
 npm install
 
-# 启动后端server，在server目录下
-node index
-
-# 运行前端，根目录下
+# serve with hot reload at localhost:8080
 npm run dev
 
-# 打包，根目录下
+# build for production with minification
 npm run build
 
+# build for production and view the bundle analyzer report
+npm run build --report
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
